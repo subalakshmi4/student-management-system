@@ -138,6 +138,19 @@ python src/main.py
 8. Exit
 =============================================
 ```
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### View All Students
+
+![View All Students](screenshots/view-students.png)
+
+### Student Result
+
+![Student Result](screenshots/student-result.png)
 
 ## 📊 Sample Result
 
